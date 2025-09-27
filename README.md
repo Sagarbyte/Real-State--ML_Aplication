@@ -41,5 +41,32 @@ affect housing prices.
 - **Mean Absolute Error (MAE)**  
 - **R² Score**
 
+## 🛠 Tech Stack
+
+**Programming Language**
+
+* Python 3.9+
+
+**Data Handling & Analysis**
+
+* Pandas – data manipulation
+* NumPy – numerical computing
+
+**Machine Learning & Modeling**
+
+* Scikit-learn – regression
+
+**Data Visualization**
+
+* Matplotlib – static plots
+* Seaborn – statistical visualization
+
+**Development Tools**
+
+* Jupyter Notebook – experimentation & prototyping
+* Git & GitHub – version control & collaboration
 ---
+
+This stack ensures smooth workflows for data preprocessing, model training, visualization, and deployment in real-world applications.
+
 
